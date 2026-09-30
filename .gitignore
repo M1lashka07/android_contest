@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+secrets.properties
+*.jks
+*.keystore
+*.hprof
+.tools/
+docs/.source-render/
+captures/
+artifacts/
+*.log
+

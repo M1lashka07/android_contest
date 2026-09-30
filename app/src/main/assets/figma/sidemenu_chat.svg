@@ -1,0 +1,26 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="17" height="15.5455" viewBox="0 0 17 15.5455" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Chat">
+<path id="Path-31_25_" d="M4.13636 3.40909H12.8636" stroke="url(#paint0_linear_0_16)" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Rectangle-4_68_" d="M3.57692 0.5H13.4231C15.1462 0.5 16.5 1.83333 16.5 3.5303V8.68182C16.5 10.3788 15.1462 11.7121 13.4231 11.7121H10.9615L8.5 15.0455L6.03846 11.7121H2.53077C1.42308 11.7121 0.5 10.803 0.5 9.71212V3.5303C0.5 1.83333 1.85385 0.5 3.57692 0.5Z" stroke="url(#paint1_linear_0_16)" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path-31_26_" d="M4.13636 5.59091H12.8636" stroke="url(#paint2_linear_0_16)" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path-31_27_" d="M4.13636 8.5H8.5" stroke="url(#paint3_linear_0_16)" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_16" x1="-0.227273" y1="3.90909" x2="-0.0010759" y2="5.88317" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF6480"/>
+<stop offset="1" stop-color="#F22E63"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_16" x1="-7.5" y1="7.77273" x2="6.97964" y2="23.7003" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF6480"/>
+<stop offset="1" stop-color="#F22E63"/>
+</linearGradient>
+<linearGradient id="paint2_linear_0_16" x1="-0.227273" y1="6.09091" x2="-0.0010759" y2="8.06499" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF6480"/>
+<stop offset="1" stop-color="#F22E63"/>
+</linearGradient>
+<linearGradient id="paint3_linear_0_16" x1="1.95455" y1="9" x2="2.39001" y2="10.9002" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF6480"/>
+<stop offset="1" stop-color="#F22E63"/>
+</linearGradient>
+</defs>
+</svg>

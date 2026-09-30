@@ -12,4 +12,8 @@ docs/.source-render/
 captures/
 artifacts/
 *.log
-
+docs/source-task.txt
+docs/architecture-source.txt
+docs/figma-context/
+docs/figma-reference/
+docs/device-screenshots/

@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="375" height="109" viewBox="0 0 375 109" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-27.1828" y="-27.1828" width="429.366" height="163.366"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(13.59px);clip-path:url(#bgblur_0_0_24_clip_path);height:100%;width:100%"></div></foreignObject><path id="Container- Task Bar" data-figma-bg-blur-radius="27.1828" d="M187.558 0C194.082 0.000158368 203.453 3.17395 210.105 8.06445C216.758 12.9552 230.813 28 264 28H375V109H0V28H111.556C144.042 27.8383 156.81 13.5159 165.088 8.06445C173.413 2.58224 181.034 0 187.558 0Z" fill="url(#paint0_linear_0_24)"/>
+<defs>
+<clipPath id="bgblur_0_0_24_clip_path" transform="translate(27.1828 27.1828)"><path d="M187.558 0C194.082 0.000158368 203.453 3.17395 210.105 8.06445C216.758 12.9552 230.813 28 264 28H375V109H0V28H111.556C144.042 27.8383 156.81 13.5159 165.088 8.06445C173.413 2.58224 181.034 0 187.558 0Z"/>
+</clipPath><linearGradient id="paint0_linear_0_24" x1="-187.5" y1="54.5" x2="-129.071" y2="255.517" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF6480"/>
+<stop offset="1" stop-color="#F22E63"/>
+</linearGradient>
+</defs>
+</svg>

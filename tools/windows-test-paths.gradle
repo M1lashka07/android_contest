@@ -1,0 +1,19 @@
+// JBR 25 on Windows decodes Java argument files with the native charset.
+// When checkout paths contain Cyrillic, stage test classpaths under ASCII temp.
+// The compiled classes and dependencies are unchanged.
+gradle.allprojects { project ->
+    project.tasks.withType(Test).configureEach { testTask ->
+        doFirst {
+            if (System.getProperty('os.name').startsWith('Windows') && project.projectDir.path.any { it > 127 }) {
+                def base = new File(System.getProperty('java.io.tmpdir'), 'combats-tests/' + Integer.toHexString(project.projectDir.path.hashCode()))
+                def staged = []
+                testTask.classpath.files.eachWithIndex { entry, index ->
+                    def destination = new File(base, "entry-${index}")
+                    project.sync { from entry; into destination }
+                    staged.add(entry.isDirectory() ? destination : new File(destination, entry.name))
+                }
+                testTask.classpath = project.files(staged)
+            }
+        }
+    }
+}
